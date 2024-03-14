@@ -18,6 +18,6 @@ public class ReversingString {
 			 */
 		}
 
-		System.out.println(reversedString);
+		System.out.println(reversedString);	
 	}
 }
