@@ -16,4 +16,6 @@ public class JavaIvPracticeMain {
  * ======
  * java_iv_practice.AnimalSingleton@649d209a
  * java_iv_practice.AnimalSingleton@649d209a
+ * 
+ * It will print same memory location, means it will not create a new instance
  * */
